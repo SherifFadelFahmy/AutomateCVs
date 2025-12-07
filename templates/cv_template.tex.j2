@@ -1,0 +1,134 @@
+% templates/cv_template.tex.j2
+
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=2pt}
+
+\begin{document}
+
+{\LARGE \textbf{ {{ profile.name }} }}\\[4pt]
+{{ profile.contact.title }}\\
+{{ profile.contact.department }}\\
+{{ profile.contact.institution }}\\
+{{ profile.contact.campus }}\\
+{{ profile.contact.city_country }}\\[4pt]
+\textbf{Phone:} {{ profile.contact.phone }} \\
+\textbf{Email:} {{ profile.contact.email }} \\
+\textbf{Website:} \href{ {{ profile.contact.website }} }{ {{ profile.contact.website }} } \\[10pt]
+
+{% if short_version %}
+\section*{Profile}
+{{ profile.summary }}
+{% endif %}
+
+\section*{Education}
+\begin{itemize}
+{% for edu in profile.education %}
+  \item \textbf{ {{ edu.degree }} } --- {{ edu.institution }}, {{ edu.location }} ({{ edu.year }})
+{% endfor %}
+\end{itemize}
+
+\section*{Academic Positions}
+\subsection*{Current}
+\begin{itemize}
+{% for pos in profile.positions.current %}
+  \item \textbf{ {{ pos.title }} } ({{ pos.years }})
+{% endfor %}
+\end{itemize}
+
+\subsection*{Previous}
+\begin{itemize}
+{% for pos in profile.positions.previous %}
+  \item \textbf{ {{ pos.title }} } ({{ pos.years }})
+{% endfor %}
+\end{itemize}
+
+\section*{Research Interests}
+\begin{itemize}
+{% for r in profile.research_interests %}
+  \item {{ r }}
+{% endfor %}
+\end{itemize}
+
+\section*{Teaching}
+\subsection*{Undergraduate}
+\begin{itemize}
+{% for c in profile.teaching.undergraduate %}
+  \item {{ c }}
+{% endfor %}
+\end{itemize}
+
+{% if profile.teaching.postgraduate %}
+\subsection*{Postgraduate}
+\begin{itemize}
+{% for c in profile.teaching.postgraduate %}
+  \item {{ c }}
+{% endfor %}
+\end{itemize}
+{% endif %}
+
+\section*{Service and Administration}
+\subsection*{Committees and Service}
+\begin{itemize}
+{% for s in profile.service.committees %}
+  \item {{ s }}
+{% endfor %}
+\end{itemize}
+
+\subsection*{Administrative Roles}
+\begin{itemize}
+{% for s in profile.service.administration %}
+  \item {{ s }}
+{% endfor %}
+\end{itemize}
+
+{% if profile.awards %}
+\section*{Awards and Honors}
+\begin{itemize}
+{% for a in profile.awards %}
+  \item {{ a.name }} ({{ a.year }})
+{% endfor %}
+\end{itemize}
+{% endif %}
+
+{% if profile.memberships %}
+\section*{Professional Memberships}
+\begin{itemize}
+{% for m in profile.memberships %}
+  \item {{ m }}
+{% endfor %}
+\end{itemize}
+{% endif %}
+
+\section*{Selected Publications}
+{% if publications %}
+\begin{enumerate}
+{% for pub in publications %}
+  \item {{ pub.authors }} ({{ pub.year or "n.d." }}). \emph{ {{ pub.title }} }. {{ pub.venue }}.
+{% endfor %}
+\end{enumerate}
+{% else %}
+No publications available.
+{% endif %}
+
+{% if profile.skills %}
+\section*{Skills}
+\subsection*{Technical}
+\begin{itemize}
+{% for s in profile.skills.technical %}
+  \item {{ s }}
+{% endfor %}
+\end{itemize}
+
+\subsection*{Languages}
+\begin{itemize}
+{% for s in profile.skills.languages %}
+  \item {{ s }}
+{% endfor %}
+\end{itemize}
+{% endif %}
+
+\end{document}

@@ -1,0 +1,103 @@
+name: "Sherif Fadel Fahmy Bishara Fahmy"
+
+contact:
+  title: "Associate Professor & Head of Department"
+  department: "Computer Engineering Department"
+  institution: "Arab Academy for Science, Technology & Maritime Transport (AASTMT)"
+  campus: "AbuKir Branch, Office 304A"
+  city_country: "Alexandria, Egypt"
+  phone: "+20 122 446 9125"
+  email: "your.email@aast.edu"        # <-- update this
+  website: "https://sheriffadelfahmy.org"
+
+summary: >
+  Computer Engineering academic and department head with expertise in
+  distributed systems, real-time systems, and operating systems. Experienced 
+  in teaching, curriculum design, and academic administration, with a strong 
+  record of research publications and student supervision.
+
+research_interests:
+  - Distributed systems
+  - Real-time systems
+  - Operating systems
+  - Software transactional memory
+  - Scheduling and response-time analysis
+
+positions:
+  current:
+    - title: "Head, Computer Engineering Department, AASTMT"
+      years: "2016–present"
+    - title: "Associate Professor, Computer Engineering, AASTMT"
+      years: "2018–present"
+  previous:
+    - title: "Assistant Professor, Computer Engineering, AASTMT"
+      years: "2010–2018"
+    - title: "Assistant Lecturer, AASTMT"
+      years: "2005–2010"
+    - title: "Teaching Assistant, AASTMT"
+      years: "2002–2005"
+
+education:
+  - degree: "Ph.D. in Computer Engineering"
+    institution: "Virginia Tech"
+    year: 2010
+    location: "Blacksburg, VA, USA"
+  - degree: "M.Sc. in Computer Engineering"
+    institution: "AASTMT"
+    year: 2005
+    location: "Alexandria, Egypt"
+  - degree: "B.Sc. in Computer Engineering"
+    institution: "AASTMT"
+    year: 2002
+    location: "Alexandria, Egypt"
+
+teaching:
+  undergraduate:
+    - "Operating Systems"
+    - "Advanced Programming"
+    - "Distributed and Parallel Systems"
+    - "Digital Design & Microprocessors"
+    - "Digital Electronics"
+    - "Structured Programming"
+    - "Programming Applications"
+  postgraduate:
+    - "Advanced Operating Systems"
+    - "Real-Time Systems"
+
+service:
+  committees:
+    - "Department Council, Computer Engineering"
+    - "Curriculum and program development activities"
+    - "Participation in accreditation and quality assurance (e.g., ABET-related preparation)"
+  administration:
+    - "Leadership of faculty and staff within the Computer Engineering Department"
+    - "Coordination of course offerings, timetables, and faculty loads"
+    - "Participation in faculty recruitment and evaluation"
+
+awards:
+  # Fill in with real awards when convenient
+  - name: "Example: AASTMT Excellence in Teaching Award"
+    year: 20XX
+  - name: "Example: Research Recognition Award"
+    year: 20YY
+
+memberships:
+  - "Senior Member, IEEE"             # adjust to your actual grade
+  - "Member, Egyptian Syndicate of Engineers"
+
+skills:
+  technical:
+    - "C, C++"
+    - "Python"
+    - "Linux systems programming"
+    - "Distributed systems design and implementation"
+  languages:
+    - "Arabic (native)"
+    - "English (fluent)"
+    - "French (learning)"
+
+config:
+  short_cv:
+    max_publications: 8
+  long_cv:
+    max_publications: 1000
