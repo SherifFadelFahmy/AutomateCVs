@@ -1,58 +1,90 @@
 Authors,Title,Publication,Volume,Number,Pages,Year,Publisher
-Amr A Hanafy and Gouda I Salama and Yahya Z Mohasseb,A secure covert communication model based on video steganography,,,,1-6,,IEEE
-Yahya Z Mohasseb and Michael P Fitz,A 3-D spatio-temporal simulation model for wireless channels,IEEE Journal on Selected Areas in Communications,20,6,1193-1203,,IEEE
-Hassan Ghozlan and Yahya Mohasseb and Hesham El Gamal and Gerhard Kramer,The MIMO wireless switch: Relaying can increase the multiplexing gain,,,,1448-1452,,IEEE
-M Mokhtar and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal,On the deterministic multicast capacity of bidirectional relay networks,,,,1-5,,IEEE
-Hassan Yakout El-Arsh and Yahya Z Mohasseb,A new light-weight jpeg2000 encryption technique based on arithmetic coding,,,,1844-1849,,IEEE
-Ahmed A Zewail and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal,The deterministic multicast capacity of 4-node relay networks,,,,804-808,,IEEE
-Ahmed A Zewail and Mohammed Nafie and Yahya Mohasseb and Hesham El Gamal,Achievable degrees of freedom region of MIMO relay networks using detour schemes,,,,1860-1865,,IEEE
-Mohamed Salah and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb,Degrees of freedom for the MIMO multi-way relay channel with common and private messages,IEEE Transactions on Wireless Communications,16,3,1673-1686,,IEEE
-Ahmed S Zamzam and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb,On the degrees of freedom of the two-cell two-hop MIMO network with dedicated and shared relays,IEEE Transactions on Wireless Communications,14,12,6738-6751,,IEEE
-Mai A Abdel-Malek and Karim G Seddik and Tamer ElBatt and Yahya Mohasseb,Effective capacity optimization for cognitive radio networks under primary QoS provisioning,Wireless Networks,26,3,2171-2190,,Springer US
-Adel M Elmahdy and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt and Mohammed Nafie and Karim G Seddik,Asymmetric degrees of freedom of the full-duplex MIMO 3-way channel,,,,469-473,,IEEE
-Mohamed Salah and Amr El-Keyi and Yahya Mohasseb and Mohammed Nafie,Achievable degrees of freedom on K-user MIMO multi-way relay channel with common and private messages,,,,973-977,,IEEE
-Ahmed Attia Abotabl and Amr El-Keyi and Yahya Mohasseb and Fan Bai,Optimal Windowing and Decision Feedback Equalization for Space–Frequency Alamouti-Coded OFDM in Doubly Selective Channels,IEEE transactions on vehicular technology,63,5,2197-2207,,IEEE
-Yahya Z Mohasseb and Mohamed T Moubarak,A QoS oriented analytical model for BGP multihomed networks,,,,31-34,,IEEE
-Adel M Elmahdy and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt and Mohammed Nafie and Karim G Seddik and Tamer Khattab,Degrees of freedom of the full-duplex asymmetric MIMO three-way channel with unicast and broadcast messages,IEEE Transactions on Communications,65,8,3276-3287,,IEEE
-Ahmed A Zewail and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal,The deterministic capacity of relay networks with relay private messages,,,,1-5,,IEEE
-Yahya Mohasseb and Michael P Fitz and Urbashi Mitra,An improved bound on the performance of maximum-likelihood multiuser detection receivers in Rayleigh fading,IEEE transactions on information theory,52,3,1184-1196,,IEEE
-Mohamed Naguib and Yahya Z Mohasseb and Hisham Dahshan,On the Transport Layer Throughput in Cognitive Mobile Ad Hoc Networks using Soft Sensing,,,,69-74,,IEEE
-Mahmoud Ashour and Ahmed Attia and Ahmad ElMoslimany and Yahya Mohasseb and Amr El-Keyi,MIMO vehicle to vehicle channels: An experimental study,,,,1-5,,IEEE
-Khaled A Ghorib and Amr Abdelaziz and Ahmed Fathy Darwesh and Yahya Mohasseb,Generalized OFDM Index Modulation Performance Analysis and Error Propagation Mitigation Using LDPC,,,,305-310,,IEEE
-Mohamed Salah and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb,Weighted sum degrees of freedom of the asymmetric MIMO Y channel with common and private messages,,,,1-7,,IEEE
-Ahmed S Bendary and Yahya Z Mohasseb and Hisham Dahshan,On the secure Degrees of Freedom for the K-user symmetric MIMO Wiretap MAC channel,,,,591-595,,IEEE
-Ahmed A Abotabl and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt,Reduced-complexity SFBC-OFDM for vehicular channels with high mobility,,,,1-5,,IEEE
-Ramy Samy and Ashraf Mahran and Yahya Mohasseb,Low complexity iterative decoding of Reed–Solomon convolutional concatenated codes,International journal of communication systems,34,14,e4922,,
-Mohamed Salah Ibrahim and Mohammed Nafie and Yahya Mohasseb,On the Capacity Region of the Deterministic Y-Channel with Common and Private Messages,,,,332-336,,IEEE
-Eslam Abd Elhalim Ali and Hisham Dahshan and Yahya Z Mohasseb,Enhanced identity based broadcast encryption scheme through open networks,,,,573-578,,IEEE
-Adel M Elmahdy and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt and Mohammed Nafie and Karim G Seddik and Tamer Khattab,Asymmetric degrees of freedom of the full-duplex MIMO 3-way channel with unicast and broadcast messages,arXiv preprint arXiv:1608.00209,,,,,
-Mai Abdel-Malek and Karim Seddik and Tamer ElBatt and Yahya Mohasseb,Effective capacity and delay optimization in cognitive radio networks,,,,30-42,,Springer International Publishing
-Ahmed S Zamzam and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb,Degrees of freedom for a two-cell relay network with soft handoffs,,,,1685-1691,,IEEE
-Ahmad ElMoslimany and Amr El-Keyi and Yahya Mohasseb,A novel stochastic geometrical model for wideband MIMO-V2V channels,,,,345-350,,IEEE
-Amr A Hanafy and Yahya Z Mohasseb and Gouda I Salama and Mohamed M Mokhtar,A Novel Region-Based Color Video Compression Technique,,,,1-7,,IEEE
-Hazem Abu Elhassan Radi and Yahya Z Mohasseb and Ali Elmogazy,The effect of imperfect symbol timing estimation on the performance of space-time coded systems,The International Conference on Electrical Engineering,5,5th International Conference on Electrical Engineering ICEENG 2006,1-13,,Military Technical College
-Yahya Zakaria Mohasseb,Interference cancellation and channel modeling for space-time narrowband systems,,,,,,
-Yahya Z Mohasseb and Urbashi Mitra and Michael P Fitz,Bounding the performance of a narrowband MUD receiver,,2,,832-837,,IEEE
-Yahya Mohasseb and Michael P Fitz,Outage Capacity of Spatially Correlated Multipath Fading Channels,PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND COMPUTING,39,2,1046-1055,,The University; 1998
-Yahya Zakaria Mohasseb,Remote Sensing and Artificial Intelligence Serving Precise and Smart Agriculture,,5,5,82-88,,"Academy of Scientific Research and Technology In cooperation with the Arab Association for Science, Technology and Innovation Observatories-Federation of Arab Scientific Research"
-Khaled A Ghorib and Amr Abdelaziz and Ahmed F Darwesh and Yahya Mohasseb,Generalized Index Modulation System and Application for Satellite Communications,,,,517-520,,IEEE
-Hisham Dahshan and Eslam Abdel Haleem Ali and Yahya Z Mohasseb,Efficient Identity Based Broadcast Encryption Scheme with Permanent Revocation,,,,,,
-Mohamed Naguib and Yahya Mohasseb and Hisham Dahshan and Ahmed Elghandour,An Enhanced Transport Layer Protocol for Cognitive Mobile Ad Hoc Networks,The International Conference on Electrical Engineering,11,11th International Conference on Electrical Engineering ICEENG 2018,1-13,,Military Technical College
-Abdelrahman Marconi and Yahya Z Mohasseb and Hisham Dahshan,Doubly selective channel estimation for OFDM systems,,,,9-13,,IEEE
-Yahya Mohasseb,Degrees of Freedom for the MIMO Multi-way Relay Channel with Common and Private Messages,IEEE Transactions on Wireless Communications,,,,,
-Ahmed A Zewail and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal,Using network coding to achieve the capacity of deterministic relay networks with relay messages,Wireless Communications and Mobile Computing,16,15,2390-2405,,
-Yahya Mohasseb,Effective Capacity and Delay Optimization in Cognitive Radio Networks,"Cognitive Radio Oriented Wireless Networks: 10th International Conference, CROWNCOM 2015, Doha, Qatar, April 21-23, 2015, Revised Selected Papers",156,,30,,Springer
-Tamer Yehya and Yahya Mohasseb and Ashraf Mahran,Position Estimation in WiMAX Networks using Received Signal Strength,The International Conference on Electrical Engineering,9,9th International Conference on Electrical Engineering ICEENG 2014,1-13,,Military Technical College
-Tamer Yehya and Ashraf Mahran and Yahya Mohasseb,Localization using DVB-T2 Signals,"Engineering and Technology (ICET), 2014 International Conference on",,,1-5,,IEEE
-Yahya Z Mohasseb and Farouk A Kamil,An energy efficient routing strategy for Wireless Sensor Networks,,,,506-510,,IEEE
-Yahya Mohasseb and Hisham Elgamal,EFFECT OF IMPERFECT POWER CONTROL ON PARALLEL INTERFERENCE CANCELLATION FOR CDMA,International Conference on Aerospace Sciences and Aviation Technology,11,"ASAT Conference, 17-19 May 2005",757-767,,The Military Technical College
-Yahya Mohasseb and Hussein Aly and Housam Soleman and Ali El-Moghazy,"The joint impact of mobility models, percentage of transmitting/receiving nodes, and nodes density in the scenario on MANET routing protocols",The International Conference on Electrical Engineering,7,7th International Conference on Electrical Engineering ICEENG 2010,1-12,,Military Technical College
-Yahya Z Mohasseb,MRC Revisited: A reduced complexity Antenna diversity scheme,The International Conference on Electrical Engineering,6,6th International Conference on Electrical Engineering ICEENG 2008,1-12,,Military Technical College
-AA Elrahman and MM Salah and YZ Mohasseb and MM Mokhtar,Performance Study of Convolutional Coded OFDM,International Conference on Aerospace Sciences and Aviation Technology,12,"ASAT Conference, 29-31 May 2007",1-10,,The Military Technical College
-Amr Amin Assaad and Yahya Z Mohasseb and Ali Elmoghazy,A MODIFIED FEC SCHEME FOR ATM QOS ENHANCEMENT OVER BURSTY SATELLITE CHANNELS,International Conference on Aerospace Sciences and Aviation Technology,12,"ASAT Conference, 29-31 May 2007",1-15,,The Military Technical College
-Y Mohasseb and A Ghuniem and S Desoky and H Elgamal,Partial Parallel Interference Cancellation for CDMA Wireless Networks in Multipath Fading Channels with Imperfect Power Control,,,,1-9,,IEEE
-Mohamed Naguib and Yahya Mohasseb and Hisham Dahshan and Ahmed Elghandour,"Kobry El-Kobbah, Cairo, Egypt",,,,,,
-Yahya Z Mohasseb and Mohamed T Moubarak,A QoS oriented Analytical Model for oriented Analytical Model for BGP Multihomed Multihomed Networks,,,,,,
-Hassan YakoutEl-Arsh and Yahya Z Mohasseb,A New Light-weight JPEG2000 Encryption Technique Based On Arithmetic Coding,,,,,,
-Hadi Hashemi and Sina Mohammadi Fard and Abbas Taherpour and Tamer Khattab and Lokman Sboui and Hakim Ghazzai and Zouheir Rezki and Mohamed-Slim Alouini and Mai Abdel-Malek and Karim Seddik and Tamer ElBatt and Yahya Mohasseb and Wei Zhou and Tao Jing and Yan Huo and Jin Qian and Zhen Li and Hussein Seleem and Abdullhameed Alsanie and Ahmed Iyanda Sulyman and Saeid Sedighi and Hesham M Elmaghraby and Dongrun Qin and Zhi Ding,Dynamic Spectrum Access/Management,,,,,,
-Yahya Z Mohasseb and Hazem A Radi and Ali Elmoghazy,A New Interpolation-Based Symbol Timing Recovery Technique for Space Time Coded Systems,,,,,,
+Sabrina M Shedid and M. Mostafa Kouta and Mohamed,Modified SET protocol for mobile payment: an empirical analysis,,1,,V1-350-V1-355,,IEEE
+Ahmed A Elnaggar and Mahmoud Gadallah and Mostafa Abdel Aziem and Hesham El-Deeb,A Comparative Study of Game Tree Searching Methods,,,,,,
+Mustafa Abdel Aziem and Ashraf Ashraf Abdou,An Efficient Indoor Localization System Based on Affinity Propagation and Support Vector Regression,,,,,,icdipc 2016
+Mostafa Syiam and Mostafa Abd El-Aziem and Mohamed El-Menshawy,AdAgen: Adaptive interface agent for X-ray fracture detection,International Journal of Computing & Information Sciences,2,3,,,
+Ahmed A. Abd ElLatif. “ Nehal A. Mohamed and Alaa Zaghloul and Mostafa A. El-Azeim,Image Encryption Scheme for Secure Digital Images based on 3D Cat Map and Turing Machine.,,,,,,SOCPaR 2015
+Hatem Magdy Keshk and M Moustafa Abdel-Aziem and Ashraf S Ali and MA Assal,Performance evaluation of quality measurement for super-resolution satellite images,,,,364-371,,IEEE
+Asmaa Abdallah and Riham Hassan and Mostafa Abdel Azim,Quantified extreme scenario based design approach,,,,1117-1122,,
+Ahmed A Elnaggar and Mahmoud Gadallah and Mostafa Abdel Aziem and Hesham El-Deeb,Enhanced Parallel NegaMax Tree Search Algorithm on GPU,IEEE conference,,,,,
+Moustafa Abdel Aziem Moustaf and Hanafy M Ismaiel,Quantitative and qualitative evaluations of image enhancement techniques,,2,,664-669,,IEEE
+EL-Gammal Dina and Amr Badr and Mostafa Abd El Azeim,New binary particle swarm optimization with immunity-clonal algorithm,Journal of Computer Science,9,11,1534,,Science Publications
+Ahmed A Elnaggar and Mahmoud Gadallah and Mostafa Abdel Aziem and Hisham Aldeeb,Autonomous checkers robot using enhanced massive parallel game tree search,,,,PDC-35-PDC-44,,IEEE
+El-Sayed Orabi and Mohamed A Assal and Mustafa Abdel Azim and Yasser Kamal,DNA fingerprint using smith waterman algorithm by grid computing,,,,PDC-74-PDC-79,,IEEE
+M. Assel Saied Oraby and Mustafa Abdel Aziem Mostafa and Yasser Omar,Designing and Building a Framework for DNA Sequence Alignment Using Grid Computing,"(IJACSA) International Journal of Advanced Computer Science and Applications,",5,,83-88,,IJACSA
+Rania Salah El-Sayed and Moustafa Abd El-Aziem and Mohammad Ali Gomaa,An Efficient Signature System Using Optimized RSA Algorithm,IJCSNS,8,12,343,,
+Mohamed Abdo and Amr Badr and Mostafa Abd Al-Azim,A Cognitive Computational Model Inspired by the Immune System Response,Biotechnology,,,,,
+and Mostafa Abd Al-Azim Mohamed Abdo and Amr Badr Badr,A Cognitive Computational Model Inspired by the Immune System Response,BioMed Research International,,,,,Hindawi
+Randa Mohamed Abd El-ghfar and EL-Bastawissy Ali and Mostafa Abdel Azeim Mostafa,DRTX: A Duplicate Resolution Tool for XML Repositories,IJCSNS,12,7,42,,
+Eman M Ezzat and Doaa S Elzanfaly and Mostafa A Mostafa,Fly over the clouds or drive through the crowd: a cloud adoption framework in action,International Journal of Computer Applications,56,4,,,Foundation of Computer Science
+Ahmed AlSum and Ayman Abdel-Hamid and Mostafa Abdel-Aziem,Application-specific dynamic policy rules (ASDPR) for J2ME,,,,512-516,,IEEE
+Hossam El-Sobky and Mostafa AbdelAzeim,A novel model for capturing and analyzing customers' preferences for ceramic tiles,,,,460-465,,
+M. Abdel Aziem Sabrina. M. Sheded,Modified SET protocol for mobile payment,,,,385- 389,,IEEE seoul section
+Mustafa Ibrahim and Mohamed Waleed Fakhr and Mustafa Abdel Aziem,LARGE SCALE LINEAR CODING FOR IMAGE CLASSIFICATION,Ubiquitous Computing and Communication Journal,8,3,1387,,Ubiquitous Computing and Communication Journal (UbiCC Journal)
+Khaled A Hassan and Amr Badr and M. Abdel Aziem,On Predicting Conformational B-cell Epitopes: a Comparative Study and a New Model,American Journal of Bioinformatics Research,1,1,6-17,,Scientific & Academic Publishing
+Mostafa M Syiam and Mostafa Abd El-Aziem and Mohamed El Menshawy,PCA Neural Network For Extracting Features From Femur Fracture in X-Ray Images,,,,,,CCIT
+Ashraf Abdel Raoaf Aya Al Nagdy and Mostafa A.A. Mostafa Ali,A new framework of software testing using cloud computing for banking applications,,,icise 2017,,,"nanyang technology university, singapore"
+Hussin Ali Mohamed Abdel Naby and Mostafa A.A mostafa Ali,"Augmented reality, maintenance training framwork with intel depth camera",,,IEEE,,,cgiit 2017 singapore
+Ahmad Bahaa Maha and Yagoub and Mostafa and A.A. M. Ali,A New approach for Distributed Software engineering teams based on Kanaban Method for reducing dependancy,Journal of Software Engineering 2016 Volume 11 Number 12 (Dec. 2016),11,Dec.2016,,,S/w Engineering Journal
+Ashraf Abdel Raouf shrouk Moataz and Mostafa Abdel Aziem and m. ali,Automated FISH Signals Fusion Detection for Chronic Myeloid Leukemia Diagnosis,,,,,,IEEE 2016
+Alaa Zaghloul Nehal A. Mohamed and Mostafa A. El-Azeim,“Color Block Image Encryption Scheme based on Confusion – Diffusion Architecture.,"International Journal of Information Assurance and Security (JIAS), ISSN 1554-1010, Volume 10, 2016.",10,,,,
+Mostafa A. El-Azeim. Nehal A. Mohamed and Alaa Zaghloul,Improving Image Encryption using 3D Cat mMap and Turing Machine.,"International Journal of Advanced Computer Science and Applications (IJACSA), ISSN 2156 5570, 2016.",,,,,ISSN 2156 5570
+Mostafa A. A. Mostafa Ali Rehab Gahaly,"Tweets Classification, Hashtags Suggestion and Tweets Linking in Social Semantic Web",,,IEEE,,,SAI 2016
+K. Al bahnacy Asmaa A. Al kholy and Mostafa Abdel Aziem Mostafa,Accurate individualized therapeutic plans ontology based evidence based midicine,,,,121-130,,IEEE
+Mostafa A- A. Mostafa Osama Orans,“Railway as a Thing” : New Railway Control System in Egypt using IoT,,,,,,"Science and Information (SAI) Conference, London, UK."
+Ahmed A Elnaggar and Mahmoud Gadallah and Mostafa Abdel Aziem and Hesham El-Deeb,A Survey of Game Tree Searching Methods,,,,,,
+Mostafa A- A Mostafa Osama Oranse,VeSimulator :A Location-Based Vehicle Simulator Model for IoT Applications,The 7th  International conference for Information Technology( ICIT 15),,,,,"Alzaytoonah University on May 12, 2015."
+Enad Al Abd Ziad Turky and M Abdel Aziem Mostafa,Cross-Language Name Matching for Data Fusion in Linked Open Data,,,,,,"Alzaytoonah University on May 12, 2015."
+Yasser Mostafa Saied Oraby and M. Assal and M. Mostafa Abdel Aziem,DNA Fingerprint using smith waterman Algorithm by grid computing,,,,,,INFOS 2014
+M. Al Zweady Mai Akeef and Mostafa A-A Mostafa and A. Al Abasy,An Educational Data Mining Model for Early Prediction for Risky Students using Decision Tree,European Journal of Scientific Research,125,1450-216X / 1450-202X,pp.399-413,,European Journal of Scientific Research
+Moustafa Abd El Aziem and Essam El Dien El Fakharany Ghada Ashraf El Sayad,"A New Remote Authentication Model for Online Examination Systems""","European Journal of Scientific Research, Vol. 125 No 1 September, 2014.",125,,,,EJSR
+Bahaa Hassan. Khaled Moawad and Mostafa Abdel-Aazim,New Mobile Digital Signature Solution Based on Micro SD,,,,,,ICW'14
+Alaa Rohiam Eman Wafae and M. Abdel Aziem Mostafa,Applications of mixed chaotic systems for data base security,European Journal of Scientific Research,2014,,,,EJSR
+m. Mahamoud Amal Ibrahim and Mostafa A. Mostafa,enhancing arabic question answering system using latent semantic indexing,Intenational Jurnal of Computer Applications,,june 2014,,,IJCA Digital Library
+H. El Deab Ahmed El Naggar and M. Mostafa Abdel Aziem and M,Analysisy of Game Tree Searching Methods,International Journal of Computer Applications (0975 – 8887),,,,,JCA 2014
+M.Gadalla Ahmed A. Elnaggar and Mostafa. A. A. M. and Hesham,Autonomous chechers robot using enhanced massive parallel game tree search,The sientific World journal,,,,,Hidawi Publisher
+Mostafa Abdel Azim Iman Ahmed Mahmoud and Amr Ahmed Badr,A COMPARATIVE STUDY FOR RHODOPSIN PROTEIN FOLDING PROBLEM,"Journal of Computer Science, 2014,",,,,,http://www.thescipub.com/journal.toc) Science publ
+Amr Badr Mohamed Abdo and Mostafa A.A. Mostafa,Advancing Artificial Intelligence Disciplines by Inspiring from Immune System,International Conference on Intelligent Systems and Applications 2014,,,,,IEEE Xplore and in a selected journal.
+Hesham El-Deeb and Mahmoud Gadallah and Mostafa Abdel Aziem and Ahmed A Elnaggar,A Comparative Study of Game Tree Searching Methods,,,,,,SCIENCE & INFORMATION SAI ORGANIZATION LTD
+Dr. Mustafa Abdel Aziem Ali Mr. Mostafa Ibrahim Labib and Dr. Mohamed Waleed,LARGE SCALE LINEAR CODING FOR IMAGE CLASSIFICATION,,,,,,http://www.ubicc.org/news_detail.aspx?id=52
+Mostafa Abdel Aziem Mohsen Rashwan and Mohamed Waleed Fakhr,Online English to Arabic Translation Enhancement by domain data adaptation,,,,,,ICCTA 2013
+Doaa El Zanfaly Eman Mousheir Ezzat and Mostafa Abd El Aziem,"Fly Over the Clouds of Drive Through the Crowd-Quality measurments prespective,",,,,,,IEEE
+Essam Elfakharany Mostafa M. AlShamy and Mostafa Abdel Aziem,"Information technology service management(ITSM) Implementation methodology based on Information technology infrastructure library (ITIL V3),","International journal of business research and Management (IJBRM),",3,3,,,
+Essam Elfahkarany Mostafa M. Elshamy and Mostafa Abdel Aziem,IT Service Managament Implementation Based on ITIL V3,"Al Azhar University, Engineering sector, JURS",7,23,,,
+Marwa Mohamed Dawoud and Mohamed El Mahallawy and Mohamed Waleed Fakhr and Mostafa Abdel Azeem,Video Copy Detection Based On Hidden Markov Models and Invariant Moments,international journal of Engineering research and application,2,1,339-344,,www.ijera.com
+M. Kouta Al Shaimaa A. Arafa and Mostafa A Aziem,Doman specific search engin with suggestions generated using association rules and term frequency: case study in the medical Domain,"Al Azhar University, Engineering sector, JURS",7,22,332-347,,
+Khaled A Hassan and Amr Badr and Mostafa Abdel-Azim,Prediction of Antigenic Epitope Patches on Protein Surface Using Antigen Structure Information and Support Vector Machine,American Journal of Bioinformatics Research,2,4,47-54,,
+Hossam Fathy ElSemellawy and Amr Badr and Mostafa Abdel Aziem,Predicting MHC Class II Epitopes Using Separated Constructive Clustering Ensemble,American Journal of Bioinformatics Research,2,2,1-10,,
+Mostafa Abdel Aziem Dina El Gammal and Goda Ismail,A Novel image fusion Algorithm for multi- focus single-sensor image fusion based on image complexity measurements,Egyptian Computer Science Journal,35,2,,,Egyptian Computer Science Journal
+Mai Akeef and M. abdel Aziem Mostafa and M. El Zwedy and A. Al Abasy,An Educational Data Mining Model for Early Prediction for Risky Students using Decision Tree”,"European Journal of Scientific Research ,  October, 2014,",125,ISSN 1450-216X / 1450-202X,pp.399-413.,,EJSR
+Raed Hosny Mostafa Abdel Aziem and M. Abo Rizka,multi intelligent agent system for maximizing the date warehouse investiment,,,,,,ICITCS
+Mostafa Abdel  Aziem M. and Abdul  Mageed EL  Sadek and Ahmed E.  Hamed,Multi Agents system for  Management of Auctions and  Trading Systems,,,,,,AAST
+Hoda saleh M. Mostafa,"An effecient algorithm for clustering of documents,",,,,,,ACIT2007
+Hoda Saleh M. Mostafa,"Rough sets analysis for feature selection and reduction,",,,,,,IMSA 2007
+Hoda Saleh M. Mostafa,"feature selection in document clustring using Rough sets,",,,,,,CIIT 2007
+Abdel Mageed El Sadek M. Mostafa,Fault tolerance of tasks scheduling on multiprocessing systems.,,,,,,ICPP 2007
+H. Algamely M. Mostafa,GIS- based environment model to simulate the dispersion of Air pollutants,,,,,,ICEE2005
+M. Mostafa Abdel Mageed El Sadek,Highly constrained tasks scheduling on multiprocessing systems,"Computer Engineering, Ain Shams, Cairo, Egypt.",,,,,JCE 2005
+A. Badr M. Mostafa,Computer Aided Diagnosis for micro calcification cluster,Egyptian computer Science Journal,1,1,,,ECSJ 2005
+M. Elmenshawy M. Mostafa,AdAgen: Adaptive interface agent for X-ray fracture detection,"Journal of computing and information science, Canada",2,,,,JCIS
+M.El Menshawy and M. Siam and M.Abdel Aziem,"automatic detection of features using hyprid neural networks, M. Siam, M.Abdel Aziem, M.El Menshawy",,,,,,CIIT 2004
+M. El Menshawy M. Siam and M. Abdel Aziem,AdAgen: Adaptive interface agent for X-ray fracture detection,,,,,,ICEEC'2004 Cairo Egypt
+Mostafa A. Abdel Aziem Mostafa,performance evaluation of neognitron neural network model for recognition of aircraft patterns,AASTMT,1,1,,,AASTMT2004
+shreif fadel M. Mostafa A- Aziem,"A generic Algorithm for converting flow charts into program code: CASE tool for teaching structure programming Language,",,,,,,SITE 2004
+Gouda M. Abdel Aziem Mostafa and S. Ezut and I. Hanafy,"Estimatibg software project effort br regression and neural network models,",,,,,,ACIT2003
+M. Mostafa Abdel Aziem Mostafa,Recognation of air craft patterns by a new rotation invarient Neocognitron,,,,,,ICCTA2003
+Gouda M. Abdel Aziem Mostafa and S. Ezut and I. Hanafy,"Performance evalution of software project effort estimation by analogy, neural networks, and COCOMO models",,,,,,ICCTA 2003
+Abass Farg M. Sharawy and M.Mostafa Abdel Aziem,Motion prediction based on adaptive Karman filtering within object track,,,,,,ICEENG 2002
+Abas frag S. El Gonamy and M.Mostafa Abdel Aziem,visual target for tracking algorithm,,,,,,ICEENG2002
+I. El Omary M. Mostafa Abdel Aziem Mostafa,Advanced technique for improving the performance of the slotted presistent CSMA/CD protocol,,,,,,ICEENG 1999
+M. Mostafa Abdel Aziem,An intelligent teaching system by showing using heuristics,,,,,,ICCIE'97
+Mostafa A-Aziem Mostafa,An interactive multi-media system for teaching an object oriented programming languages,,,,,,ICCA'12 USA
+M. EL S. Gadalla Mostaf. A-Aziem Mostafa,An integration of speech and vision technologies,,,,,,ICCTA '6
+A. Fahmy M. Amin and Mostafa A-Aziem,Automatic recognation of engineeringdrawing for office automation system,,,,,,Sues canal univ.1995
+M. Shokr Mostafa A-Aziem,A topology mapping for mesh interconnected multi-processor systems,,,,,,Ain Shams Univ.
+M. Shokr Mostafa A-Aziem,A better way to compress images using transform coding for computer vision,,,,,,Ain shams univ.
+Mostafa A-Aziem Mostafa,A fractal based approach for image compression and decompression,,,,,,ICAIA'3 AUC
+Mostafa A-Aziem Mostafa,Integrated a CAD system and a computer vision system,,,,,,ICAIA'3 AUC
+M. Shokr M. El M.B. Galal and Mostafa A-Aziem,A performance evaluation of signature analysis based algorithm for fault detection in digital circuits,,,,,,ICCSSA'94 Ain shams Univ.
+M. EL M.B. Galal Mostafa A-Aziem Mostafa,A fractal geometry based fourier transform for computer vision systems,,,,,,Ain shams Univ.
+M. EL. M.B. Galal Mostafa A-Aziem,A fast algorithm for computer vision systems.,,,,,,!SSR'28

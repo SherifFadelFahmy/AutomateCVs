@@ -1,0 +1,85 @@
+name: "Ashraf Farouk Tamam"
+
+contact:
+  title: "Associate Professor of Computer Engineering"
+  department: "Computer Engineering Department"
+  institution: "Arab Academy for Science, Technology & Maritime Transport (AASTMT)"
+  campus: "AASTMT AbuKir Branch, Office A307"
+  city_country: "Alexandria, Egypt"
+  phone: ""
+  mobile: "01225555055"
+  email: "REPLACE_WITH_EMAIL"
+  website: ""
+
+summary: >
+  Associate Professor of Computer Engineering at the Arab Academy for Science,
+  Technology & Maritime Transport (AASTMT), AbuKir, Alexandria. He received his
+  B.Sc. in Electrical Engineering – Computer Engineering from the Military Technical
+  College (MTC), Cairo, in 1994, and his M.Sc. and Ph.D. in Electrical Engineering –
+  Computer and Systems Engineering from the Faculty of Engineering, Ain Shams
+  University, in 2004 and 2011, respectively. He previously served as Chairman of
+  the Information and Decision Support Center (IDSC) at the Egyptian Cabinet in 2014.
+  His research interests include computer and network security, Internet of Things (IoT),
+  and geographic information systems (GIS).
+
+research_interests:
+  - Computer and network security
+  - Internet of Things (IoT)
+  - Geographic Information Systems (GIS)
+
+positions:
+  current:
+    - title: "Associate Professor, Computer Engineering, AASTMT AbuKir Branch"
+      years: "REPLACE_WITH_YEARS"
+  previous:
+    - title: "Chairman, Information and Decision Support Center (IDSC), Egyptian Cabinet"
+      years: "2014"
+
+education:
+  - degree: "Ph.D. in Electrical Engineering – Computer and Systems Engineering"
+    institution: "Ain Shams University"
+    year: 2011
+    location: "Cairo, Egypt"
+  - degree: "M.Sc. in Electrical Engineering – Computer and Systems Engineering"
+    institution: "Ain Shams University"
+    year: 2004
+    location: "Cairo, Egypt"
+  - degree: "B.Sc. in Electrical Engineering – Computer Engineering"
+    institution: "Military Technical College (MTC)"
+    year: 1994
+    location: "Cairo, Egypt"
+
+teaching:
+  undergraduate:
+    - "Structured Programming (CC112)"
+    - "Introduction to Computers (CC111)"
+    - "Data & Computer Communications (CC331)"
+    - "Data Structures (CC215)"
+    - "Introduction to Programming (CC114)"
+  postgraduate: []
+
+service:
+  committees:
+    - "Participation in academic and departmental committees at the Computer Engineering Department, AASTMT AbuKir Branch"
+  administration:
+    - "Chairman, Information and Decision Support Center (IDSC), Egyptian Cabinet (2014)"
+
+awards: []
+
+memberships: []
+
+skills:
+  technical:
+    - "Computer and network security"
+    - "IoT systems design and applications"
+    - "Geographic Information Systems (GIS)"
+    - "Computer engineering and systems design"
+  languages:
+    - "Arabic (native)"
+    - "English (fluent)"
+
+config:
+  short_cv:
+    max_publications: 8
+  long_cv:
+    max_publications: 200
