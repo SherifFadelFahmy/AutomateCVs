@@ -1,103 +1,99 @@
-name: "Sherif Fadel Fahmy Bishara Fahmy"
+name: "Yehia Zakria Mohseb Hussein"
 
 contact:
-  title: "Associate Professor & Head of Department"
+  title: "Professor & Dean of Postgraduate Affairs"
   department: "Computer Engineering Department"
   institution: "Arab Academy for Science, Technology & Maritime Transport (AASTMT)"
-  campus: "AbuKir Branch, Office 304A"
-  city_country: "Alexandria, Egypt"
-  phone: "+20 122 446 9125"
-  email: "your.email@aast.edu"        # <-- update this
-  website: "https://sheriffadelfahmy.org"
+  campus: "Heliopolis (Cairo) Campus"
+  city_country: "Cairo, Egypt"
+  phone: "REPLACE_WITH_PHONE"
+  email: "REPLACE_WITH_EMAIL"
+  website: "REPLACE_WITH_WEBSITE"
 
 summary: >
-  Computer Engineering academic and department head with expertise in
-  distributed systems, real-time systems, and operating systems. Experienced 
-  in teaching, curriculum design, and academic administration, with a strong 
-  record of research publications and student supervision.
+  Professor of Computer Engineering and Dean of Postgraduate Affairs at AASTMT
+  Cairo, with extensive academic and leadership experience including serving as
+  Dean of Education Affairs for AAST Cairo campuses and Deputy Commandant of the
+  Military Technical College. His research spans physical layer communications
+  and security, network information theory, cross-layer optimization, channel
+  modeling and estimation, and satellite communications architectures.
 
 research_interests:
-  - Distributed systems
-  - Real-time systems
-  - Operating systems
-  - Software transactional memory
-  - Scheduling and response-time analysis
+  - Physical layer communications and security
+  - Network information theory
+  - Cross-layer optimization
+  - Channel modeling and estimation
+  - Satellite communications architectures
 
 positions:
   current:
-    - title: "Head, Computer Engineering Department, AASTMT"
-      years: "2016–present"
-    - title: "Associate Professor, Computer Engineering, AASTMT"
-      years: "2018–present"
+    - title: "Dean of Postgraduate Affairs, AAST Cairo Campuses"
+      years: "2021–present"
+    - title: "Professor, Computer Engineering, AAST-Heliopolis"
+      years: "REPLACE_WITH_YEARS"
   previous:
-    - title: "Assistant Professor, Computer Engineering, AASTMT"
-      years: "2010–2018"
-    - title: "Assistant Lecturer, AASTMT"
-      years: "2005–2010"
-    - title: "Teaching Assistant, AASTMT"
-      years: "2002–2005"
+    - title: "Dean of Education Affairs – AAST Cairo Campuses"
+      years: "REPLACE_WITH_YEARS"
+    - title: "Deputy Commandant, Military Technical College"
+      years: "REPLACE_WITH_YEARS"
 
 education:
-  - degree: "Ph.D. in Computer Engineering"
-    institution: "Virginia Tech"
-    year: 2010
-    location: "Blacksburg, VA, USA"
-  - degree: "M.Sc. in Computer Engineering"
-    institution: "AASTMT"
-    year: 2005
-    location: "Alexandria, Egypt"
-  - degree: "B.Sc. in Computer Engineering"
-    institution: "AASTMT"
+  - degree: "Ph.D. in Electrical Engineering"
+    institution: "The Ohio State University"
     year: 2002
-    location: "Alexandria, Egypt"
+    location: "Columbus, OH, USA"
+  - degree: "M.Sc. in Electrical Engineering"
+    institution: "Military Technical College"
+    year: 1996
+    location: "Cairo, Egypt"
+  - degree: "B.Sc. in Communications"
+    institution: "Military Technical College"
+    year: 1991
+    location: "Cairo, Egypt"
 
 teaching:
   undergraduate:
-    - "Operating Systems"
-    - "Advanced Programming"
-    - "Distributed and Parallel Systems"
-    - "Digital Design & Microprocessors"
-    - "Digital Electronics"
-    - "Structured Programming"
-    - "Programming Applications"
+    - "Digital Communications"
+    - "Wireless Communications"
+    - "Information Theory"
+    - "Communication Systems"
   postgraduate:
-    - "Advanced Operating Systems"
-    - "Real-Time Systems"
+    - "Advanced Wireless Communications"
+    - "Network Information Theory"
+    - "Satellite Communications Systems"
 
 service:
   committees:
-    - "Department Council, Computer Engineering"
-    - "Curriculum and program development activities"
-    - "Participation in accreditation and quality assurance (e.g., ABET-related preparation)"
+    - "Scientific and technical committees of EgyptSat-1"
+    - "Technical program manager for Tiba-1"
+    - "Postgraduate affairs committees and councils at AAST Cairo"
   administration:
-    - "Leadership of faculty and staff within the Computer Engineering Department"
-    - "Coordination of course offerings, timetables, and faculty loads"
-    - "Participation in faculty recruitment and evaluation"
+    - "Dean of Postgraduate Affairs, AAST Cairo Campuses"
+    - "Former Dean of Education Affairs – AAST Cairo Campuses"
+    - "Deputy Commandant, Military Technical College"
 
 awards:
-  # Fill in with real awards when convenient
-  - name: "Example: AASTMT Excellence in Teaching Award"
-    year: 20XX
-  - name: "Example: Research Recognition Award"
-    year: 20YY
+  - name: "Medal of Distinguished Service"
+    year: "REPLACE_WITH_YEAR"
+  - name: "Order of the Republic"
+    year: "REPLACE_WITH_YEAR"
 
 memberships:
-  - "Senior Member, IEEE"             # adjust to your actual grade
-  - "Member, Egyptian Syndicate of Engineers"
+  - "Senior Member, IEEE"
 
 skills:
   technical:
-    - "C, C++"
-    - "Python"
-    - "Linux systems programming"
-    - "Distributed systems design and implementation"
+    - "Physical layer design and analysis"
+    - "Secure communications"
+    - "Satellite communication architectures"
+    - "Channel modeling and estimation"
+    - "Network information theory and cross-layer design"
   languages:
     - "Arabic (native)"
     - "English (fluent)"
-    - "French (learning)"
 
 config:
   short_cv:
-    max_publications: 8
+    max_publications: 10
   long_cv:
-    max_publications: 1000
+    max_publications: 200

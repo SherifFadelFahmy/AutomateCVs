@@ -1,248 +1,344 @@
 [
   {
-    "title": "Technical vs Fundamental Analysis for Egyptian Stock Market Prediction using a Unified Ensemble Regressor",
-    "authors": "Fahmy, Sherif F; Fahmy, Shereen F; Fakhr, Mohamed W;",
-    "venue": "2024 6th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)",
-    "year": 2024
-  },
-  {
-    "title": "Arabic Music Genre Identification",
-    "authors": "Moataz Ahmed, Manal Helal, Sherif Fadel Fahmy, Abdel Moneim Wahdan;",
-    "venue": "Journal of Advanced Research in Applied Sciences and Engineering Technology",
-    "year": 2024
-  },
-  {
-    "title": "A Novel Technique for Segmenting Data for Training an Ensemble Regressor",
-    "authors": "Bastawisy, Ahmed O.; Fahmy, Sherif F.; Elazeem, Mohamed H. Abd; Fahmy, Shereen F.;",
-    "venue": "Journal of Advanced Research In Applied Sciences and Engineering Technology",
-    "year": 2024
-  },
-  {
-    "title": "Generative Adversarial Networks as weight generators in ensemble classification",
-    "authors": "Yehia, Asmaa; Fahmy, Sherif; Fahmy, Ahmed;",
-    "venue": "AIRC",
-    "year": 2023
-  },
-  {
-    "title": "Detecting and preventing for performance assessment of IoT devices under dodag information solicitation (dis) attacks",
-    "authors": "Kamal, Tamer; Helmy, Emadeldin; Fahmy, Sherif; Abd EL-Azeem, Mohamed H;",
-    "venue": "2023 40th National Radio Science Conference (NRSC)",
-    "year": 2023
-  },
-  {
-    "title": "An ensemble multi-stream classifier for infant needs detection",
-    "authors": "Fahmy, Hesham Ahmed; Fahmy, Sherif Fadel; García, Alberto A Del Barrio; Juan, Guillermo Botella;",
-    "venue": "Heliyon",
-    "year": 2023
-  },
-  {
-    "title": "Spinal Muscle Atrophy Disease Modelling as Bayesian Network",
-    "authors": "Helal, Mohammed Ezzat; Helal, Manal Ezzat; Fahmy, Sherif Fadel;",
-    "venue": "Journal of Physics: Conference Series",
-    "year": 2021
-  },
-  {
-    "title": "A hybrid entropy-based DoS attacks detection system for software defined networks (SDN): A proposed trust mechanism",
-    "authors": "AbdelAzim, Nada M; Fahmy, Sherif F; Sobh, Mohammed Ali; Eldin, Ayman M Bahaa;",
-    "venue": "Egyptian Informatics Journal",
-    "year": 2021
-  },
-  {
-    "title": "Emotion detection in infants using an ensemble classifier with a novel member selection technique",
-    "authors": "Fahmy, Hesham Ahmed; Fahmy, Sherif Fadel; García, Alberto A Del Barrio; Juan, Guillermo Botella;",
-    "venue": "Proceedings of the 2020 Summer Simulation Conference",
-    "year": 2020
-  },
-  {
-    "title": "Egyptian Informatics Journal",
-    "authors": "Abd El-Aziz, AA; Elmogy, Mohammed; Abd El-Ghany, Sameh;",
-    "venue": "network",
-    "year": 2020
-  },
-  {
-    "title": "More accurate estimation of working set size in virtual machines",
-    "authors": "Harby, Ahmed A; Fahmy, Sherif F; Amin, Ahmed F;",
-    "venue": "IEEE Access",
-    "year": 2019
-  },
-  {
-    "title": "Throughput and Wasted Work in Contention Management for Software Transactional Memory",
-    "authors": "Senousy, Zakarial; Fahmy, Sherif F.; Amin, Ahmed F.;",
-    "venue": "ICaTAS",
-    "year": 2018
-  },
-  {
-    "title": "Blockchain and its uses",
-    "authors": "Fahmy, Sherif F;",
-    "venue": "Arab Academy for Science and Technology and Maritime Transport",
-    "year": 2018
-  },
-  {
-    "title": "Providing QoS in Contention Management for Software Transactional Memory",
-    "authors": "Fahmy, Sherif F.; Sensousy, Zakaria; Amin, Ahmed F.;",
-    "venue": "ICENCO",
-    "year": 2017
-  },
-  {
-    "title": "Chitosan-tripolyphosphate nanoparticles: Optimization of formulation parameters for improving process yield at a novel pH using artificial neural networks",
-    "authors": "Hashad, Rania A; Ishak, Rania AH; Fahmy, Sherif; Mansour, Samar; Geneidi, Ahmed S;",
-    "venue": "International journal of biological macromolecules",
-    "year": 2016
-  },
-  {
-    "title": "Lossless Image Compression Using Agglomerative Hierarchical Clustering and the Jensen-Shannon  Divergence",
-    "authors": "Samir, Sameh; Fahmy, Sherif F.; Selim, Gamal;",
-    "venue": "ICCTA",
-    "year": 2015
-  },
-  {
-    "title": "MCSAuth: A New Authentication Mechanism for Cloud Systems",
-    "authors": "Fahmy, Sherif F; Selim, Gamal I;",
-    "venue": "International Journal of Computer Applications",
-    "year": 2014
-  },
-  {
-    "title": "Improving Tor Performance using Tor Optimizer with reference to Client Experience",
-    "authors": "Fahmy, A.; Fahmy, S. F.; AlAmir, M.;",
-    "venue": "AEIC",
-    "year": 2014
-  },
-  {
-    "title": "Aggregating Local Metrics for Global Trust Calculations in the TOR Network",
-    "authors": "Aziem, Nada M Abdel; Fahmy, Sherif F; Hashad, Attallah I;",
-    "venue": "ICCTA",
-    "year": 2014
-  },
-  {
-    "title": "Implementing distributable real-time threads in the Linux kernel: programming interface and scheduling support",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "Proceedings of the 27th Annual ACM Symposium on Applied Computing",
-    "year": 2012
-  },
-  {
-    "title": "DNA Microarray: Analysis of Gene Expression with regard to Gene Signatures",
-    "authors": "Eid, Salwa; Youssef, Alia; Fahmy, Sherif;",
-    "venue": "iCBBE",
-    "year": 2012
-  },
-  {
-    "title": "On STM concurrency control for multicore embedded real-time software",
-    "authors": "Fahmy, Sherif; Ravindran, Binoy;",
-    "venue": "2011 International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation",
-    "year": 2011
-  },
-  {
-    "title": "Collaborative Scheduling and Synchronization of Distributable Real-Time Threads",
-    "authors": "Fahmy, Sherif Fadel;",
-    "venue": "nan",
-    "year": 2010
-  },
-  {
-    "title": "Response time analysis of software transactional memory-based distributed real-time systems",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "Proceedings of the 2009 ACM symposium on Applied Computing",
-    "year": 2009
-  },
-  {
-    "title": "On bounding response times under software transactional memory in distributed multiprocessor real-time systems",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "2009 Design, Automation & Test in Europe Conference & Exhibition",
-    "year": 2009
-  },
-  {
-    "title": "Scheduling distributable real-time threads in the presence of crash failures and message losses",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "Proceedings of the 2008 ACM symposium on Applied computing",
-    "year": 2008
-  },
-  {
-    "title": "Scheduling dependent distributable real-time threads in dynamic networked embedded systems",
-    "authors": "Fahmy, Sherif; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "IFIP Working Conference on Distributed and Parallel Embedded Systems",
-    "year": 2008
-  },
-  {
-    "title": "Scalable Synchronization and Scheduling of Distributable Real-Time Threads",
-    "authors": "Fahmy, Sherif F;",
-    "venue": "nan",
-    "year": 2008
-  },
-  {
-    "title": "On scalable synchronization for distributed embedded real-time systems",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "IFIP International Workshop on Software Technolgies for Embedded and Ubiquitous Systems",
-    "year": 2008
-  },
-  {
-    "title": "On collaborative scheduling of distributable real-time threads in dynamic, Networked Embedded Systems",
-    "authors": "Fahmy, Sherif; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "2008 11th IEEE International Symposium on Object and Component-Oriented Real-Time Distributed Computing (ISORC)",
-    "year": 2008
-  },
-  {
-    "title": "Fast scheduling of distributable real-time threads with assured end-to-end timeliness",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, E Douglas;",
-    "venue": "International Conference on Reliable Software Technologies",
-    "year": 2008
-  },
-  {
-    "title": "Using ears as a biometric for human recognition",
-    "authors": "Saleh, Mohamed; Fadel, Sherif; Abbott, Lynn;",
-    "venue": "Arab Academy for Science and Technology and Maritime Transport, Cairo, Egypt",
-    "year": 2006
-  },
-  {
-    "title": "The Use of Gait as a Biometric for Person Identification from Surveillance Videos",
-    "authors": "Fahmy, Sherif Fadel;",
-    "venue": "nan",
-    "year": 2005
-  },
-  {
-    "title": "A Novel Hybrid Moving Object Detection Algorithm for Video Surveillance Applications",
-    "authors": "Fahmy, Sherif F.; Al, Et;",
-    "venue": "ICICIS",
-    "year": 2005
-  },
-  {
-    "title": "The Design and Implementation of An E-Management System for the Arab Academy for Science and Technology and Maritime Transport, and the Effect of this System on Faculty Performance",
-    "authors": "Fahmy, Sherif F.; Fahmy, Ahmed;",
-    "venue": "IIEC_2",
-    "year": 2003
-  },
-  {
-    "title": "A Generic Algorithm for Converting Flow Charts into Program Code: CASE tool for teaching computer programming",
-    "authors": "Fahmy, Sherif F.; Azim, Mostafa Abd El;",
-    "venue": "SITE",
-    "year": 2003
-  },
-  {
-    "title": "Response time analysis of software transactional memory-based multiprocessor distributed real-time systems",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy; Jensen, ED;",
+    "title": "Weighted sum degrees of freedom of the asymmetric MIMO Y channel with common and private messages",
+    "authors": "Mohamed Salah and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb",
     "venue": "nan",
     "year": null
   },
   {
-    "title": "Randomized Real-Time Gossip: Scheduling Distributable Threads in Ad Hoc Networks Under Unknown Number of Thread Hops",
-    "authors": "Fahmy, Sherif; Ravindran, Binoy; Han, Kai; Jensen, ED;",
+    "title": "Using network coding to achieve the capacity of deterministic relay networks with relay messages",
+    "authors": "Ahmed A Zewail and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal",
+    "venue": "Wireless Communications and Mobile Computing",
+    "year": null
+  },
+  {
+    "title": "The joint impact of mobility models, percentage of transmitting/receiving nodes, and nodes density in the scenario on MANET routing protocols",
+    "authors": "Yahya Mohasseb and Hussein Aly and Housam Soleman and Ali El-Moghazy",
+    "venue": "The International Conference on Electrical Engineering",
+    "year": null
+  },
+  {
+    "title": "The effect of imperfect symbol timing estimation on the performance of space-time coded systems",
+    "authors": "Hazem Abu Elhassan Radi and Yahya Z Mohasseb and Ali Elmogazy",
+    "venue": "The International Conference on Electrical Engineering",
+    "year": null
+  },
+  {
+    "title": "The deterministic multicast capacity of 4-node relay networks",
+    "authors": "Ahmed A Zewail and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal",
     "venue": "nan",
     "year": null
   },
   {
-    "title": "Randomized Real-Time Gossip: Scheduling Distributable Real-Time Threads in Ad Hoc Networks Under Unknown Thread Hops",
-    "authors": "Fahmy, Sherif; Ravindran, Binoy; Han, Kai; Jensen, ED;",
+    "title": "The deterministic capacity of relay networks with relay private messages",
+    "authors": "Ahmed A Zewail and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal",
     "venue": "nan",
     "year": null
   },
   {
-    "title": "On real-time transactional contention management on deadline-scheduled multicore systems",
-    "authors": "Fahmy, Sherif F; Ravindran, Binoy;",
+    "title": "The MIMO wireless switch: Relaying can increase the multiplexing gain",
+    "authors": "Hassan Ghozlan and Yahya Mohasseb and Hesham El Gamal and Gerhard Kramer",
     "venue": "nan",
     "year": null
   },
   {
-    "title": "MCSAuth: A New Authentication Mechanism for Cloud Systems",
-    "authors": "Athanasios, François SN; Fahmy, Sherif F; Selim, Gamal I;",
-    "venue": "International Journal of Computer Applications",
+    "title": "Remote Sensing and Artificial Intelligence Serving Precise and Smart Agriculture",
+    "authors": "Yahya Zakaria Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Reduced-complexity SFBC-OFDM for vehicular channels with high mobility",
+    "authors": "Ahmed A Abotabl and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Position Estimation in WiMAX Networks using Received Signal Strength",
+    "authors": "Tamer Yehya and Yahya Mohasseb and Ashraf Mahran",
+    "venue": "The International Conference on Electrical Engineering",
+    "year": null
+  },
+  {
+    "title": "Performance Study of Convolutional Coded OFDM",
+    "authors": "AA Elrahman and MM Salah and YZ Mohasseb and MM Mokhtar",
+    "venue": "International Conference on Aerospace Sciences and Aviation Technology",
+    "year": null
+  },
+  {
+    "title": "Partial Parallel Interference Cancellation for CDMA Wireless Networks in Multipath Fading Channels with Imperfect Power Control",
+    "authors": "Y Mohasseb and A Ghuniem and S Desoky and H Elgamal",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Outage Capacity of Spatially Correlated Multipath Fading Channels",
+    "authors": "Yahya Mohasseb and Michael P Fitz",
+    "venue": "PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND COMPUTING",
+    "year": null
+  },
+  {
+    "title": "Optimal Windowing and Decision Feedback Equalization for Space–Frequency Alamouti-Coded OFDM in Doubly Selective Channels",
+    "authors": "Ahmed Attia Abotabl and Amr El-Keyi and Yahya Mohasseb and Fan Bai",
+    "venue": "IEEE transactions on vehicular technology",
+    "year": null
+  },
+  {
+    "title": "On the secure Degrees of Freedom for the K-user symmetric MIMO Wiretap MAC channel",
+    "authors": "Ahmed S Bendary and Yahya Z Mohasseb and Hisham Dahshan",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "On the deterministic multicast capacity of bidirectional relay networks",
+    "authors": "M Mokhtar and Yahya Mohasseb and Mohammed Nafie and Hesham El Gamal",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "On the degrees of freedom of the two-cell two-hop MIMO network with dedicated and shared relays",
+    "authors": "Ahmed S Zamzam and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb",
+    "venue": "IEEE Transactions on Wireless Communications",
+    "year": null
+  },
+  {
+    "title": "On the Transport Layer Throughput in Cognitive Mobile Ad Hoc Networks using Soft Sensing",
+    "authors": "Mohamed Naguib and Yahya Z Mohasseb and Hisham Dahshan",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "On the Capacity Region of the Deterministic Y-Channel with Common and Private Messages",
+    "authors": "Mohamed Salah Ibrahim and Mohammed Nafie and Yahya Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "MRC Revisited: A reduced complexity Antenna diversity scheme",
+    "authors": "Yahya Z Mohasseb",
+    "venue": "The International Conference on Electrical Engineering",
+    "year": null
+  },
+  {
+    "title": "MIMO vehicle to vehicle channels: An experimental study",
+    "authors": "Mahmoud Ashour and Ahmed Attia and Ahmad ElMoslimany and Yahya Mohasseb and Amr El-Keyi",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Low complexity iterative decoding of Reed–Solomon convolutional concatenated codes",
+    "authors": "Ramy Samy and Ashraf Mahran and Yahya Mohasseb",
+    "venue": "International journal of communication systems",
+    "year": null
+  },
+  {
+    "title": "Localization using DVB-T2 Signals",
+    "authors": "Tamer Yehya and Ashraf Mahran and Yahya Mohasseb",
+    "venue": "Engineering and Technology (ICET), 2014 International Conference on",
+    "year": null
+  },
+  {
+    "title": "Kobry El-Kobbah, Cairo, Egypt",
+    "authors": "Mohamed Naguib and Yahya Mohasseb and Hisham Dahshan and Ahmed Elghandour",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Interference cancellation and channel modeling for space-time narrowband systems",
+    "authors": "Yahya Zakaria Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Generalized OFDM Index Modulation Performance Analysis and Error Propagation Mitigation Using LDPC",
+    "authors": "Khaled A Ghorib and Amr Abdelaziz and Ahmed Fathy Darwesh and Yahya Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Generalized Index Modulation System and Application for Satellite Communications",
+    "authors": "Khaled A Ghorib and Amr Abdelaziz and Ahmed F Darwesh and Yahya Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Enhanced identity based broadcast encryption scheme through open networks",
+    "authors": "Eslam Abd Elhalim Ali and Hisham Dahshan and Yahya Z Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Efficient Identity Based Broadcast Encryption Scheme with Permanent Revocation",
+    "authors": "Hisham Dahshan and Eslam Abdel Haleem Ali and Yahya Z Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Effective capacity optimization for cognitive radio networks under primary QoS provisioning",
+    "authors": "Mai A Abdel-Malek and Karim G Seddik and Tamer ElBatt and Yahya Mohasseb",
+    "venue": "Wireless Networks",
+    "year": null
+  },
+  {
+    "title": "Effective capacity and delay optimization in cognitive radio networks",
+    "authors": "Mai Abdel-Malek and Karim Seddik and Tamer ElBatt and Yahya Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Effective Capacity and Delay Optimization in Cognitive Radio Networks",
+    "authors": "Yahya Mohasseb",
+    "venue": "Cognitive Radio Oriented Wireless Networks: 10th International Conference, CROWNCOM 2015, Doha, Qatar, April 21-23, 2015, Revised Selected Papers",
+    "year": null
+  },
+  {
+    "title": "EFFECT OF IMPERFECT POWER CONTROL ON PARALLEL INTERFERENCE CANCELLATION FOR CDMA",
+    "authors": "Yahya Mohasseb and Hisham Elgamal",
+    "venue": "International Conference on Aerospace Sciences and Aviation Technology",
+    "year": null
+  },
+  {
+    "title": "Dynamic Spectrum Access/Management",
+    "authors": "Hadi Hashemi and Sina Mohammadi Fard and Abbas Taherpour and Tamer Khattab and Lokman Sboui and Hakim Ghazzai and Zouheir Rezki and Mohamed-Slim Alouini and Mai Abdel-Malek and Karim Seddik and Tamer ElBatt and Yahya Mohasseb and Wei Zhou and Tao Jing and Yan Huo and Jin Qian and Zhen Li and Hussein Seleem and Abdullhameed Alsanie and Ahmed Iyanda Sulyman and Saeid Sedighi and Hesham M Elmaghraby and Dongrun Qin and Zhi Ding",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Doubly selective channel estimation for OFDM systems",
+    "authors": "Abdelrahman Marconi and Yahya Z Mohasseb and Hisham Dahshan",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Degrees of freedom of the full-duplex asymmetric MIMO three-way channel with unicast and broadcast messages",
+    "authors": "Adel M Elmahdy and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt and Mohammed Nafie and Karim G Seddik and Tamer Khattab",
+    "venue": "IEEE Transactions on Communications",
+    "year": null
+  },
+  {
+    "title": "Degrees of freedom for the MIMO multi-way relay channel with common and private messages",
+    "authors": "Mohamed Salah and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb",
+    "venue": "IEEE Transactions on Wireless Communications",
+    "year": null
+  },
+  {
+    "title": "Degrees of freedom for a two-cell relay network with soft handoffs",
+    "authors": "Ahmed S Zamzam and Amr El-Keyi and Mohammed Nafie and Yahya Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Degrees of Freedom for the MIMO Multi-way Relay Channel with Common and Private Messages",
+    "authors": "Yahya Mohasseb",
+    "venue": "IEEE Transactions on Wireless Communications",
+    "year": null
+  },
+  {
+    "title": "Bounding the performance of a narrowband MUD receiver",
+    "authors": "Yahya Z Mohasseb and Urbashi Mitra and Michael P Fitz",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Asymmetric degrees of freedom of the full-duplex MIMO 3-way channel with unicast and broadcast messages",
+    "authors": "Adel M Elmahdy and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt and Mohammed Nafie and Karim G Seddik and Tamer Khattab",
+    "venue": "arXiv preprint arXiv:1608.00209",
+    "year": null
+  },
+  {
+    "title": "Asymmetric degrees of freedom of the full-duplex MIMO 3-way channel",
+    "authors": "Adel M Elmahdy and Amr El-Keyi and Yahya Mohasseb and Tamer ElBatt and Mohammed Nafie and Karim G Seddik",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "An improved bound on the performance of maximum-likelihood multiuser detection receivers in Rayleigh fading",
+    "authors": "Yahya Mohasseb and Michael P Fitz and Urbashi Mitra",
+    "venue": "IEEE transactions on information theory",
+    "year": null
+  },
+  {
+    "title": "An energy efficient routing strategy for Wireless Sensor Networks",
+    "authors": "Yahya Z Mohasseb and Farouk A Kamil",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "An Enhanced Transport Layer Protocol for Cognitive Mobile Ad Hoc Networks",
+    "authors": "Mohamed Naguib and Yahya Mohasseb and Hisham Dahshan and Ahmed Elghandour",
+    "venue": "The International Conference on Electrical Engineering",
+    "year": null
+  },
+  {
+    "title": "Achievable degrees of freedom region of MIMO relay networks using detour schemes",
+    "authors": "Ahmed A Zewail and Mohammed Nafie and Yahya Mohasseb and Hesham El Gamal",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "Achievable degrees of freedom on K-user MIMO multi-way relay channel with common and private messages",
+    "authors": "Mohamed Salah and Amr El-Keyi and Yahya Mohasseb and Mohammed Nafie",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A secure covert communication model based on video steganography",
+    "authors": "Amr A Hanafy and Gouda I Salama and Yahya Z Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A novel stochastic geometrical model for wideband MIMO-V2V channels",
+    "authors": "Ahmad ElMoslimany and Amr El-Keyi and Yahya Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A new light-weight jpeg2000 encryption technique based on arithmetic coding",
+    "authors": "Hassan Yakout El-Arsh and Yahya Z Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A QoS oriented analytical model for BGP multihomed networks",
+    "authors": "Yahya Z Mohasseb and Mohamed T Moubarak",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A QoS oriented Analytical Model for oriented Analytical Model for BGP Multihomed Multihomed Networks",
+    "authors": "Yahya Z Mohasseb and Mohamed T Moubarak",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A Novel Region-Based Color Video Compression Technique",
+    "authors": "Amr A Hanafy and Yahya Z Mohasseb and Gouda I Salama and Mohamed M Mokhtar",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A New Light-weight JPEG2000 Encryption Technique Based On Arithmetic Coding",
+    "authors": "Hassan YakoutEl-Arsh and Yahya Z Mohasseb",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A New Interpolation-Based Symbol Timing Recovery Technique for Space Time Coded Systems",
+    "authors": "Yahya Z Mohasseb and Hazem A Radi and Ali Elmoghazy",
+    "venue": "nan",
+    "year": null
+  },
+  {
+    "title": "A MODIFIED FEC SCHEME FOR ATM QOS ENHANCEMENT OVER BURSTY SATELLITE CHANNELS",
+    "authors": "Amr Amin Assaad and Yahya Z Mohasseb and Ali Elmoghazy",
+    "venue": "International Conference on Aerospace Sciences and Aviation Technology",
+    "year": null
+  },
+  {
+    "title": "A 3-D spatio-temporal simulation model for wireless channels",
+    "authors": "Yahya Z Mohasseb and Michael P Fitz",
+    "venue": "IEEE Journal on Selected Areas in Communications",
     "year": null
   }
 ]
